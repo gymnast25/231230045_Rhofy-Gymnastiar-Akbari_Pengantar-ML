@@ -8,4 +8,4 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 
 ## Daftar Tugas
 - **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/github/gymnast25/231230045_Rhofy-Gymnastiar-Akbari_Pengantar-ML
-/blob/main/Machine_Learning.ipynb)
+/blob/main/Machine-Learning.ipynb)
